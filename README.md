@@ -240,4 +240,4 @@ This repository serves as the official landing page for Xilisoft Video Converter
 **Get the most recent version of Xilisoft Video Converter today!**
 
 ---
-**Last updated:** 2026-09-11 22:21:36 UTC
+**Last updated:** 2026-09-12 00:58:03 UTC
